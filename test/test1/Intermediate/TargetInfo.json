@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "test1",
+			"Path": "/Users/mlacroix/.git/unreal/test/test1/Source/test1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "test1Editor",
+			"Path": "/Users/mlacroix/.git/unreal/test/test1/Source/test1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/mlacroix/.git/unreal/test/test1/Source/test1/test1.Build.cs",
+		"/Users/mlacroix/.git/unreal/test/test1/Source/test1.Target.cs",
+		"/Users/mlacroix/.git/unreal/test/test1/Source/test1Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
